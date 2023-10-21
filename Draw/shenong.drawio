@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T09:25:45.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="O1ZooFT_Co55TgHJFTD0" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-21T14:16:47.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.57" etag="YKgv5HXadGB_cwKwtIf2" version="22.0.6" type="github">
   <diagram name="第 1 页" id="iWOmF0_isDL2NF3F1115">
     <mxGraphModel dx="2610" dy="2108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -187,6 +187,33 @@
         </mxCell>
         <mxCell id="WxX_SDaer7fwxP5K8RQV-121" value="wss" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.843;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WxX_SDaer7fwxP5K8RQV-111" target="WxX_SDaer7fwxP5K8RQV-55">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-123" value="事务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="175.44" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-124" value="post" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-125" value="get" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-126" value="log" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-127" value="roter 页面 权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-128" value="静态资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-129" value="各种组件、库、包" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="730" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-130" value="NodeJS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="910" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WxX_SDaer7fwxP5K8RQV-131" value="HTTPS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="1050" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
